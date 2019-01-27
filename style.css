@@ -1,0 +1,123 @@
+
+
+header{
+    text-align: left;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    width: 6em;
+    float: left;
+    margin: 15px;
+    margin-left: 74px;
+}
+
+h1{
+    color: #4aaaa5;
+    text-align: center;
+    font-size: 26px;
+    width: 6em;
+    height: 1em;
+    float: left;
+    margin: 30px;
+    margin-left: 57px;
+
+}
+
+.nav-item{
+    font-size: 18px;
+    margin-top: 2px;
+    height: 20px;
+    width: 150px;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: #4aaaa5;
+    height: 25px;
+    font-size: 18px; 
+}
+
+.space{
+    margin-top: 900px;
+}
+
+.space1{
+    margin-top: 30px;
+}
+
+.form-group{
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.btn{
+    position:absolute;
+transition: .5s ease;
+    left: 90px;
+    top: 365px;
+}
+
+p1{
+    line-height: 2.2em;
+}
+
+p2{
+    line-height: 1.5em;
+}
+
+p3{
+    line-height: 1.5em;
+}
+
+/* Portfolio Page */
+
+.row{
+    margin: 500x;
+}
+
+.text{
+    position:absolute;
+    transition: .5s ease;
+    left: 125px;
+    top: 265px;
+    background-color: #4aaaa5;
+    color: white;
+    }
+
+.text1{
+        position:absolute;
+        transition: .5s ease;
+        left: 125px;
+        top: 265px;
+        background-color: #4aaaa5;
+        color: white;
+    }
+
+.text2{
+        position:absolute;
+        transition: .5s ease;
+        left: 125px;
+        top: 265px;
+        background-color: #4aaaa5;
+        color: white;
+    }
+
+.text3{
+        position:absolute;
+        transition: .5s ease;
+        left: 95px;
+        top: 265px;
+        background-color: #4aaaa5;
+        color: white;
+    }
+
+.text4{
+        position:absolute;
+        transition: .5s ease;
+        left: 95px;
+        top: 265px;
+        background-color: #4aaaa5;
+        color: white;
+    }
